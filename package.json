@@ -1,0 +1,23 @@
+{
+  "name": "homework-2-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irina-Khaustova/homework-modules-3.git"
+  },
+  "author": "Irina Khaustova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irina-Khaustova/homework-modules-3/issues"
+  },
+  "homepage": "https://github.com/Irina-Khaustova/homework-modules-3#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
